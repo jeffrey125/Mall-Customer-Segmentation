@@ -37,4 +37,5 @@ There is a Concentration in the middle part by the **Violet Cluster** which we c
 We need to identify why does the Green Cluster doesn't want to spend money on our mall and we also need to maximize the Violet Cluster which is the average spenders by giving them promotions and maintain our loyal customer base by giving them Prestige promotions due to their spending to the mall.  
   
   # Conclusion  
-  Thank you for reading my First Repository in Github and I'm still new to the Data Science Industry so I'm sorry for the mistakes I made in my coding in my notebook, I just completed my Data Science Training in Udemy, and also I want to apply my knowledge with my Marketing Degree and Data Science to have a good Insights to other Business Cases.
+Thank you for reading my First Repository in Github!  I'm still new to 
+ Data Science Industry so I would like to apologize if there are any mistakes that I have made in my coding in notebook. I have recently completed my Data Science Training in Udemy and I really want to apply my knowledge with my Marketing Degree and Data Science in order to have good Insights and expand my career to other Business Cases.
