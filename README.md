@@ -8,10 +8,10 @@ Reference: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in
 # Summary  
   ## WCSS
 As you can see in WCSS the Preferred Cluster is 3 so I clustered my Datasets into 3
-![image](Pictures/elbowmethod.png)  
+![image](https://res.cloudinary.com/dsstsnndu/image/upload/v1657128317/elbowmethod_h9egfs.png)  
   
 ## Spending score and Age
-![image](Pictures/age.png)  
+![image](https://res.cloudinary.com/dsstsnndu/image/upload/v1657128317/age_yndfa6.png)  
 **Insight**  
 As you can see in the **Red Cluster** which we can name them the Middle age to Elderly people.  
 The reason why they mostly fall in the average spending score, it's because middle age to Elderly people tend to go to the Malls to socialize with their friends or just see people.   
@@ -28,7 +28,7 @@ Reference: White, Rob & Toohey, J.-A & Asquith, Nicole. (2013). Seniors in shopp
     
     
 ## Spending Score and Annual Income
-![image](Pictures/spendingscore.png)  
+![image](https://res.cloudinary.com/dsstsnndu/image/upload/v1657128317/spendingscore_gsqyum.png)  
 **Insight**   
 There is a Concentration in the middle part by the **Violet Cluster** which we can call them the Average Spenders and this average spenders are almost the majority of our customers.  
 **Green Cluster** are the ones who are The Rich People but doesn't want to spend here in our Mall.
